@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Nevidoma-Tetiana/goit-react-hw-01-components/static/css/main.7acaea2f.css",
-    "main.js": "/Nevidoma-Tetiana/goit-react-hw-01-components/static/js/main.07d3183d.js",
+    "main.js": "/Nevidoma-Tetiana/goit-react-hw-01-components/static/js/main.ee0b1be1.js",
     "index.html": "/Nevidoma-Tetiana/goit-react-hw-01-components/index.html",
     "main.7acaea2f.css.map": "/Nevidoma-Tetiana/goit-react-hw-01-components/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/Nevidoma-Tetiana/goit-react-hw-01-components/static/js/main.07d3183d.js.map"
+    "main.ee0b1be1.js.map": "/Nevidoma-Tetiana/goit-react-hw-01-components/static/js/main.ee0b1be1.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/js/main.ee0b1be1.js"
   ]
 }
