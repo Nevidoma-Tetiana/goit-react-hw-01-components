@@ -1,77 +1,77 @@
 import styled from '@emotion/styled';
 
 export const ProfileCard = styled.div`
-    max-width: 300px;
-    width: 100%;
-    margin: 0 auto;
-    padding-top: 32px;
-    border-radius: 4px;
-    background-color: #F0FFF0;
-    box-shadow: 0px 0px 13px -3px rgba(66, 68, 90, 1);
-`
+  max-width: 300px;
+  width: 100%;
+  margin: 0 auto;
+  padding-top: 32px;
+  border-radius: 4px;
+  background-color: #f0fff0;
+  box-shadow: 0px 0px 13px -3px rgba(66, 68, 90, 1);
+`;
 export const Description = styled.div`
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-`
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+`;
 
 export const Avatar = styled.img`
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    margin-bottom: 24px;
-    width: 100px;
-    height: 100%;
-    border-radius: 50%;
-    background-color: #ffffff
-`
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 24px;
+  width: 100px;
+  height: 100%;
+  border-radius: 50%;
+  background-color: #ffffff;
+`;
 export const Name = styled.p`
-    font-size: 24px;
-    font-weight: 600;
-    margin-top: 0;
-    margin-bottom: 8px;
-    color: #555555;
-`
+  font-size: 24px;
+  font-weight: 600;
+  margin-top: 0;
+  margin-bottom: 8px;
+  color: #555555;
+`;
 export const Tag = styled.p`
-    margin-top:0;
-    margin-bottom: 8px;
-    color: #555555;
-`
+  margin-top: 0;
+  margin-bottom: 8px;
+  color: #555555;
+`;
 export const Location = styled.p`
-    margin-top:0;
-    margin-bottom: 8px;
-    color: #555555;
-`
+  margin-top: 0;
+  margin-bottom: 8px;
+  color: #555555;
+`;
 
 export const StatusList = styled.ul`
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
-    background-color: #ADD8E6;
-    color: #ffffff;
-    margin: 0;
-    padding: 0;
-    width: 100%;
-    border-bottom-left-radius: 4px;
-    border-bottom-right-radius: 4px;
-    border: 1px solid #ADD8E6;
-`
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  background-color: #add8e6;
+  color: #ffffff;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  border-bottom-left-radius: 4px;
+  border-bottom-right-radius: 4px;
+  border: 1px solid #add8e6;
+`;
 
 export const StatusItem = styled.li`
-    padding: 16px;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    font-size: 12px;
-    &:not(:first-of-type) {
-        border-left: 1px solid #ADD8E6;
-    }
-`
+  padding: 16px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: 12px;
+  &:not(:first-of-type) {
+    border-left: 1px solid #add8e6;
+  }
+`;
 
 export const Label = styled.span`
-    margin-bottom: 4px;
-`
+  margin-bottom: 4px;
+`;
 export const Quantity = styled.span`
-    font-weight: 600;
-`
+  font-weight: 600;
+`;
