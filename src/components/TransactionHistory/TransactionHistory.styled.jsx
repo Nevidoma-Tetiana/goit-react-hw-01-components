@@ -11,7 +11,7 @@ export const TransactionTable = styled.table`
     color: #555555;
 `
 export const TableHead = styled.thead`
-    background-color: #2C7B8C;
+    background-color: #ADD8E6;
     border-bottom: 1px solid #006A68;
     padding: 0;
     color: #ffffff;

@@ -21,7 +21,7 @@ export const StatList = styled.ul`
     margin-right: auto;
 `
 const colorPicker = (i) => {
-    const colors = ['#D4BFD1', '#B3ACC7', '#8B9BBB', '#5D8BA8', '#2C7B8C'];
+    const colors = ['#E0FFFF', '#87CEFA', '#ADD8E6', '#48D1CC', '#7FFFD4'];
     return colors[i];
 }
 

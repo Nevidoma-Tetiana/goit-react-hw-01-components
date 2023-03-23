@@ -6,7 +6,7 @@ export const ProfileCard = styled.div`
     margin: 0 auto;
     padding-top: 32px;
     border-radius: 4px;
-    background-color: #D4BFD1;
+    background-color: #F0FFF0;
     box-shadow: 0px 0px 13px -3px rgba(66, 68, 90, 1);
 `
 export const Description = styled.div`
@@ -47,14 +47,14 @@ export const Location = styled.p`
 export const StatusList = styled.ul`
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
-    background-color: #5D8BA8;
+    background-color: #ADD8E6;
     color: #ffffff;
     margin: 0;
     padding: 0;
     width: 100%;
     border-bottom-left-radius: 4px;
     border-bottom-right-radius: 4px;
-    border: 1px solid #2C7B8C;
+    border: 1px solid #ADD8E6;
 `
 
 export const StatusItem = styled.li`
@@ -65,7 +65,7 @@ export const StatusItem = styled.li`
     justify-content: center;
     font-size: 12px;
     &:not(:first-of-type) {
-        border-left: 1px solid #2C7B8C;
+        border-left: 1px solid #ADD8E6;
     }
 `
 
